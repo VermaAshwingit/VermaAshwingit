@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VermaAshwingit
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science and AI
 - 💞️ I’m looking to collaborate on some AI integrated project ideas
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All I can write is "Hello, World!" and it make me feel like a pro
